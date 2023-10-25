@@ -1,0 +1,105 @@
+El Quijote tiene 187018 palabras.
+
+El Quijote tiene 2186 líneas.
+
+El Quijote tiene 15601 palabras distintas.
+
+La palabra más larga en el Quijote es: extraordinariamente, con 19 letras La palabra más corta en el Quijote es: 1
+
+Se encontraron 76 líneas que contienen la palabra 'Dulcinea'
+Se encontraron 494 líneas que contienen la palabra 'Sancho'
+Se encontraron 91 líneas que contienen la palabra 'Rocinante'
+
+Las palabras más frecuentes son:
+- que: 10351 veces.
+- de: 8947 veces.
+- y: 8042 veces.
+- la: 4941 veces.
+- a: 4725 veces.
+- en: 3883 veces.
+- el: 3726 veces.
+- no: 2786 veces.
+- se: 2382 veces.
+- los: 2122 veces.
+- con: 2024 veces.
+- por: 1881 veces.
+- su: 1856 veces.
+- le: 1801 veces.
+- lo: 1778 veces.
+- las: 1473 veces.
+- me: 1154 veces.
+- como: 1130 veces.
+- del: 1113 veces.
+- es: 960 veces.
+- si: 899 veces.
+- un: 894 veces.
+- más: 882 veces.
+- mi: 851 veces.
+- yo: 814 veces.
+
+Número de apariciones de cada letra:
+- 
+: 2186
+- !: 222
+- ": 46
+- ': 12
+- (: 71
+- ): 71
+- ,: 18393
+- -: 1575
+- .: 3634
+- 0: 6
+- 1: 16
+- 2: 16
+- 3: 16
+- 4: 16
+- 5: 8
+- 6: 5
+- 7: 5
+- 8: 5
+- 9: 6
+- :: 818
+- ;: 2468
+- <: 2
+- ?: 446
+- [: 5
+- ]: 5
+- a: 99486
+- b: 12085
+- c: 28909
+- d: 42272
+- e: 112784
+- f: 3955
+- g: 8192
+- h: 9527
+- i: 43698
+- j: 4832
+- k: 1
+- l: 43952
+- m: 22123
+- n: 54315
+- o: 78751
+- p: 17230
+- q: 16354
+- r: 49082
+- s: 60076
+- t: 30724
+- u: 39656
+- v: 8664
+- w: 1
+- x: 210
+- y: 11984
+- z: 3158
+- ¡: 226
+- «: 45
+- »: 42
+- ¿: 449
+- ̀: 1
+- ́: 18482
+- ̃: 1837
+- ̈: 36
+- –: 366
+- ‘: 2
+- ’: 2
+- “: 1
+- ”: 1

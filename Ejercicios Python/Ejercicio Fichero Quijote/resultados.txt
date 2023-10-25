@@ -1,0 +1,112 @@
+RESULTADOS Ejercicio Fichero Quijote!!!!
+
+El quijote tiene 187018 palabras.
+
+El quijote tiene 2186 líneas.
+
+El quijote tiene 187055 palabras distintas.
+
+La palabra más larga en el Quijote es: "extraordinariamente", con 19 letras.
+La palabra más corta en el Quijote es: "1", con 1 letra.
+
+Se encontraron 76 líneas que contienen la palabra Dulcinea.
+Se encontraron 494 líneas que contienen la palabra Sancho.
+Se encontraron 91 líneas que contienen la palabra Rocinante.
+
+Las palabras más frecuentes son:- que: 10689 veces
+- de: 8953 veces
+- y: 8219 veces
+- la: 4942 veces
+- a: 4726 veces
+- en: 3884 veces
+- el: 3733 veces
+- no: 2857 veces
+- se: 2382 veces
+- los: 2123 veces
+- con: 2025 veces
+- por: 1882 veces
+- su: 1856 veces
+- le: 1806 veces
+- lo: 1780 veces
+- las: 1473 veces
+- me: 1154 veces
+- como: 1139 veces
+- del: 1113 veces
+- es: 1008 veces
+- más: 962 veces
+- si: 922 veces
+- yo: 895 veces
+- un: 894 veces
+- mi: 876 veces
+- Quijote: 809 veces
+- dijo: 805 veces
+- al: 801 veces
+- tan: 750 veces
+- él: 745 veces
+
+Número de apariciones de cada letra en el quijote:
+- 
+: 2186 veces.
+- !: 222 veces.
+- ": 46 veces.
+- ': 12 veces.
+- (: 71 veces.
+- ): 71 veces.
+- ,: 18393 veces.
+- -: 1575 veces.
+- .: 3634 veces.
+- 0: 6 veces.
+- 1: 16 veces.
+- 2: 16 veces.
+- 3: 16 veces.
+- 4: 16 veces.
+- 5: 8 veces.
+- 6: 5 veces.
+- 7: 5 veces.
+- 8: 5 veces.
+- 9: 6 veces.
+- :: 818 veces.
+- ;: 2468 veces.
+- <: 2 veces.
+- ?: 446 veces.
+- [: 5 veces.
+- ]: 5 veces.
+- a: 99486 veces.
+- b: 12085 veces.
+- c: 28909 veces.
+- d: 42272 veces.
+- e: 112784 veces.
+- f: 3955 veces.
+- g: 8192 veces.
+- h: 9527 veces.
+- i: 43698 veces.
+- j: 4832 veces.
+- k: 1 veces.
+- l: 43952 veces.
+- m: 22123 veces.
+- n: 54315 veces.
+- o: 78751 veces.
+- p: 17230 veces.
+- q: 16354 veces.
+- r: 49082 veces.
+- s: 60076 veces.
+- t: 30724 veces.
+- u: 39656 veces.
+- v: 8664 veces.
+- w: 1 veces.
+- x: 210 veces.
+- y: 11984 veces.
+- z: 3158 veces.
+- ¡: 226 veces.
+- «: 45 veces.
+- »: 42 veces.
+- ¿: 449 veces.
+- ̀: 1 veces.
+- ́: 18482 veces.
+- ̃: 1837 veces.
+- ̈: 36 veces.
+- –: 366 veces.
+- ‘: 2 veces.
+- ’: 2 veces.
+- “: 1 veces.
+- ”: 1 veces.
